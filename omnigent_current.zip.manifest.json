@@ -1,0 +1,8 @@
+{
+  "filename": "omnigent_current.zip",
+  "sha256": "5bea898f9e245bdea7905d1ed42ee0449550e7e02be6ebf13443925568b577bc",
+  "parts": [
+    "omnigent_current.zip.part00",
+    "omnigent_current.zip.part01"
+  ]
+}
