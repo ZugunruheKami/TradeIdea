@@ -1,8 +1,9 @@
 {
   "filename": "omnigent_current.zip",
-  "sha256": "5bea898f9e245bdea7905d1ed42ee0449550e7e02be6ebf13443925568b577bc",
+  "sha256": "c92d525b2251992368d2096e8b0814186ab2c191cc18734981ffd7fba53426e8",
   "parts": [
     "omnigent_current.zip.part00",
-    "omnigent_current.zip.part01"
+    "omnigent_current.zip.part01",
+    "omnigent_current.zip.part02"
   ]
 }
